@@ -1,0 +1,111 @@
+{
+
+    "create": {
+
+        "account": {
+
+            "name": "Paulo Cintura",
+            "email": "paucintura@gmail.com",
+            "cpf": "23465678790"
+        },
+        
+        "plan": {
+
+                "name": "Plano Black",
+                "id": 2,
+                "price": "99.99"
+        },
+        "cartaosemlimite": {
+            
+            "number":"9909 4345 6567 1235",
+            "nome"  :"Paulo F Cintura",
+            "mes"   :"02",
+            "ano"   :"2030",
+            "cvv"   :"123"
+
+        }
+    
+    },
+
+    "duplicate": {
+
+        "account": {
+
+            "name": "Alex Turner",
+            "email": "AlexTurner@gmail.com",
+            "cpf": "61251434061"
+        },
+        
+        "plan":
+        {
+                "name": "Plano Smart",
+                "id": 1,
+                "price": "79.99"
+        }
+        ,
+        "cartaosemlimite": {
+            
+            "number":"9909 4345 6567 1235",
+            "nome"  :"Alex David Turner",
+            "mes"   :"02",
+            "ano"   :"2030",
+            "cvv"   :"123"
+
+        }
+    
+    },
+
+       "search": {
+                "account": {
+
+            "name": "Emily Stone",
+            "email": "Emily@gmail.com",
+            "cpf": "61251434098"
+        },
+        
+        "plan":
+        {
+                "name": "Plano Smart",
+                "id": 1,
+                "price": "79.99"
+        }
+        ,
+        "cartaosemlimite": {
+            
+            "number":"9909 4345 6567 1235",
+            "nome"  :"Emily Stone",
+            "mes"   :"02",
+            "ano"   :"2030",
+            "cvv"   :"123"
+
+
+       }
+    },
+
+        "delete": {
+                 "account": {
+
+         "name": "Emily Stone",
+        "email": "Emily@gmail.com",
+        "cpf": "61251434098"
+       },
+
+        "plan":
+      {
+        "name": "Plano Smart",
+        "id": 1,
+        "price": "79.99"
+      },
+      "cartaosemlimite": {
+    
+       "number":"9909 4345 6567 1235",
+        "nome"  :"Emily Stone",
+         "mes"   :"02",
+         "ano"   :"2030",
+         "cvv"   :"123"
+
+        }
+
+     }
+
+}
